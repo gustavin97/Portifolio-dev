@@ -1,0 +1,26 @@
+section{
+  align-items: center;
+  text-align: center;
+}
+
+.projects h3{ 
+  color:var(--color-red);
+  margin-top:72px;
+}
+
+.projects h2{
+  color: var(--color-gray6);
+  margin-top: 8px;
+  margin-bottom: 40px;
+}
+
+.grid-container{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap:24px;
+  margin: auto;
+}
+
+  
+  
+  

@@ -1,0 +1,20 @@
+.service {
+margin-top: 80px; 
+background-color:var(--color-gray1);
+  border: 2px red solid;
+
+}
+
+.text h1{
+  margin-top: 88px;
+  font-size: 24px;
+  color: var(--color-red);
+}
+
+
+
+.text p {
+  color:#E2E4E9;
+  margin-top: 8px;
+  font-size: 32px;
+}

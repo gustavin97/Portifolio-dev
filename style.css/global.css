@@ -1,0 +1,42 @@
+
+*{
+  margin: auto;
+  padding: auto;
+}
+  
+  
+
+
+:root {
+
+--color-red: #E3646E;
+--color-purple:#BB72E9;
+--color-blue:#3996DB;
+--color-green:#82BC4F;
+--color-yellow:#EABD5F;
+
+--color-gray1:#0D0E11;
+--color-gray2:#16181D;
+--color-gray3:#292C34;
+--color-gray4:#878EA1;
+--color-gray5:#C0C4CE;
+--color-gray6:#E2E4E9;
+
+--text-lg:56px;
+--text-md:24px;
+--text-sm:16px
+
+
+
+}
+
+body{
+  background-color:var(--color-gray2);
+  width: 60%;
+  height: auto;
+}
+
+
+
+
+    

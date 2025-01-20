@@ -1,0 +1,62 @@
+.container h1{
+  font-size: var(--text-md);
+  color: var(--color-gray5);
+  margin-top: 56px;
+}
+
+.container h1 span{ 
+  color: var(--color-red);
+}
+
+.container h2 { 
+  font-size: var(--text-lg);
+color:var(--color-gray6);
+margin-top: 8px;
+}
+
+.container h3{
+  font-size: var(--text-sm);
+  color: var(--color-gray4);
+  margin-top: 20px;
+  margin-left: 160px;
+  margin-right: 160px;
+  margin-bottom: 20px;
+}
+
+
+div.container{
+  align-items: center;
+  text-align: center;
+  background-image: url(../assets/Background_Contacts.png);
+  background-size: contain;
+  
+}
+
+div.container img{
+  margin-top: 120px;
+}
+  
+  
+div.icon{
+  color: var(--color-gray5);
+  justify-content: center;
+  margin-bottom: 40px;
+  
+  
+}
+
+div.seta{
+  align-items: center;
+}  
+  
+
+
+
+  
+  
+
+ 
+  
+
+
+  
